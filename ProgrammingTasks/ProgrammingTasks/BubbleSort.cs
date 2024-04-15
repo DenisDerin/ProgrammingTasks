@@ -56,7 +56,7 @@ namespace ProgrammingTasks
             }
         }
 
-        internal static void SortAscending()
+        internal static void ExecuteSortAscending()
         {
             int[] inputNumbers = { 63, 17, 49, 92, 4, 30, 87, 53, 18, 76 };
             int[] sortedNumbers = BubbleSort.SortAscending(inputNumbers);
