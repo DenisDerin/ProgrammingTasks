@@ -10,7 +10,7 @@ namespace ProgrammingTasks
     {
         static void Main(string[] args)
         {
-            BubbleSort.ExecuteSortDescending();
+            BubbleSort.SortAscending();
 
             Console.ReadKey();
         }
