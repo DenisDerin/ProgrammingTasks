@@ -10,7 +10,7 @@ namespace ProgrammingTasks
     {
         static void Main(string[] args)
         {
-            MathMethods.PrintFactorialResult();
+            MathMethods.PrintDigitCounts();
 
             Console.ReadKey();
         }

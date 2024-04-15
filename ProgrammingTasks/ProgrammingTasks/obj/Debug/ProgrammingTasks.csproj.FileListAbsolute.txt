@@ -1,8 +1,0 @@
-C:\Repos\ProgrammingTasks\ProgrammingTasks\ProgrammingTasks\obj\Debug\ProgrammingTasks.csproj.AssemblyReference.cache
-C:\Repos\ProgrammingTasks\ProgrammingTasks\ProgrammingTasks\obj\Debug\ProgrammingTasks.csproj.SuggestedBindingRedirects.cache
-C:\Repos\ProgrammingTasks\ProgrammingTasks\ProgrammingTasks\obj\Debug\ProgrammingTasks.csproj.CoreCompileInputs.cache
-C:\Repos\ProgrammingTasks\ProgrammingTasks\ProgrammingTasks\bin\Debug\ProgrammingTasks.exe.config
-C:\Repos\ProgrammingTasks\ProgrammingTasks\ProgrammingTasks\bin\Debug\ProgrammingTasks.exe
-C:\Repos\ProgrammingTasks\ProgrammingTasks\ProgrammingTasks\bin\Debug\ProgrammingTasks.pdb
-C:\Repos\ProgrammingTasks\ProgrammingTasks\ProgrammingTasks\obj\Debug\ProgrammingTasks.exe
-C:\Repos\ProgrammingTasks\ProgrammingTasks\ProgrammingTasks\obj\Debug\ProgrammingTasks.pdb
