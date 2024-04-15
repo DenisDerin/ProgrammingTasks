@@ -10,7 +10,7 @@ namespace ProgrammingTasks
     {
         static void Main(string[] args)
         {
-            MathMethods.PrintDigitCounts();
+            MathMethods.PrintMinMax();
 
             Console.ReadKey();
         }
